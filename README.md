@@ -19,3 +19,6 @@ This project demonstrates face detection in images using OpenCV's pre-trained Ha
 ## How to Run
 
 1. Clone the repository:
+2. Make sure `haarcascade_frontalface_default.xml` is in the same directory as the Python file.
+3. Run the script
+
